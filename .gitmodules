@@ -1,0 +1,3 @@
+[submodule "macho-loader"]
+	path = macho-loader
+	url = https://github.com/unknown0xff/macho-loader.git
